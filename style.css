@@ -16,6 +16,8 @@ body h1 {
 }
 
 div {
+    paddling-top: 10px;
+    paddling-bottom: 10px;
     height: 520px;
     background-color: rgba(255, 255, 255, 0.492);
     margin: 10px;
